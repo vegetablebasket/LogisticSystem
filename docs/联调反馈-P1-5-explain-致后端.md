@@ -5,7 +5,7 @@
 | **阶段** | P1-5 / F015 |
 | **前端分支** | `frontend/p1-5-p1-01` @ `fbcb78c` |
 | **后端分支** | `origin/backend/phase-p1-5` @ `08b5d47` |
-| **集成分支** | `integration/p1-5-explain` |
+| **集成分支** | `integration/p1-5-explain` @ `84123bb` |
 | **文档日期** | 2026-06-09 |
 | **联调状态** | API 冒烟通过 + 前端 build 通过 |
 
